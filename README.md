@@ -1,9 +1,8 @@
-# thebigtrip.github.io
-!DOCTYPE html>
+
+<!DOCTYPE html>
 <html>
 <head>
         <link rel='stylesheet' href='file:///Users/CompagnerKids/Documents/Elijah/Sabbatical_Blog.CSS'/>
-        <script src='script.js'></script>
         <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Spectral+SC:500i" rel="stylesheet">
 </head>
