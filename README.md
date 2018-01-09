@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+        <meta charset="utf-8">
         <link rel='stylesheet' href='file:///Users/CompagnerKids/Documents/Elijah/Sabbatical_Blog.CSS'/>
         <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Spectral+SC:500i" rel="stylesheet">
