@@ -3,8 +3,8 @@
 <html>
 <head>
         <meta charset="utf-8">
-        <link rel='stylesheet' href='file:///Users/CompagnerKids/Documents/Elijah/Sabbatical_Blog.CSS'/>
-        <link href="https://github.com/thebigtrip/thebigtrip.github.io/blob/master/CSS%20stuff" rel="stylesheet">
+        <link rel='stylesheet' href=' thebigtrip.github.io/CSS stuff '/>
+        
         <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Spectral+SC:500i" rel="stylesheet">
 </head>
