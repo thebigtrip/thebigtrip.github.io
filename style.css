@@ -1,1 +1,46 @@
+header {text-align: center; font-family: "Marck Script", cursive; font-style: oblique; font-size: 40px; color: sienna; width: 103%; height: 90px; right: 7px; position: relative; bottom: 8px; background-color: floralwhite; line-height: 60px;} 
+body { background-color: Tan;} 
+.entry-text{ width: 78%; } .intro { } .subtitle{position: relative; bottom: 63px; text-align: center; color: sienna; font-family: "Spectral SC", fantasy; font-style: italic; } 
+.intro-quote{font-family: "Marck Script", fantasy; float:right; width: 260px; clear: right; } 
+.entry-date { text-align:center; font-style:italic; font-family: fantasy; } 
+body { background-color: Tan;
 
+    width: 260px;
+clear: right;
+    font-size: 18px;
+left: 500px;
+
+
+}
+.navbar {display: inline;
+position: relative;
+}
+.navel {
+position: relative;
+text-align: center;
+
+}
+.Netherlands {
+
+    margin-left:20px;
+    color:saddlebrown;       margin-left:20px;
+    color:saddlebrown;
+    }
+    .England {
+    margin-left:20px;
+    color:saddlebrown;
+    }
+    .Switzerland {
+    margin-left:20px;
+    color:saddlebrown;
+    }
+.quote {
+
+
+}
+
+.entry { margin-top: 20px; position: relative; } position: relative; } .entry-pic {width: 300px;
+
+border: 7px silver ridge;
+
+margin-top: 20px; }
