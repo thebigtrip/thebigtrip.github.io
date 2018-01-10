@@ -4,9 +4,6 @@
 <head>
         <meta charset="utf-8">
         <link rel='stylesheet' href=' thebigtrip.github.io/CSS stuff '/>
-        
-        <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Spectral+SC:500i" rel="stylesheet">
 </head>
 <body>
     <div class = "#header"><header>Through the Wardrobe Door</header><h3 class = "subtitle">The Compagner Sabbatical Journey</h3></div>
