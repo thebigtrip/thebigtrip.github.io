@@ -35,7 +35,7 @@ font-style: italic;
     clear: right;
         font-size: 15px;
     left: 500px;
-
+        bottom: 1px;
 
     }
     .navbar {display: inline;
