@@ -33,7 +33,7 @@ font-style: italic;
     float:right;
     width: 260px;
     clear: right;
-        font-size: 14px;
+        font-size: 15px;
     left: 500px;
 
 
@@ -51,7 +51,9 @@ font-style: italic;
         margin-left:20px;
         color:saddlebrown;
         }
-.France {}
+.France { margin-left:20px;
+        color:saddlebrown;
+}
         .England {
         margin-left:20px;
         color:saddlebrown;
