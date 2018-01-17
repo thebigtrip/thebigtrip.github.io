@@ -44,15 +44,15 @@ font-style: italic;
     .navel {
     position:fixed;
     text-align: center;
-        
+     z-index: 4;   
     }
     .Netherlands {
 
         margin-left:20px;
         color:saddlebrown;
-            position:fixed;
+            
             right: 10px;
-            z-index: 4;
+            
         }
 .France { margin-left:20px;
         color:saddlebrown;
