@@ -44,7 +44,8 @@ font-style: italic;
     .navel {
     position:fixed;
     text-align: center;
-     z-index: 4;   
+     z-index: 4; 
+            bottom: 5px;
     }
     .Netherlands {
 
