@@ -52,6 +52,7 @@ font-style: italic;
         color:saddlebrown;
             position:fixed;
             left: 20px;
+            z-index: 4;
         }
 .France { margin-left:20px;
         color:saddlebrown;
