@@ -45,7 +45,7 @@ font-style: italic;
     position:fixed;
     text-align: center;
      z-index: 4; 
-            bottom: 0px;
+            bottom: -4px;
             background:floralwhite;
             width: 103%;
             height: 40px;
