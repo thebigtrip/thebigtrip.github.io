@@ -39,13 +39,14 @@ font-style: italic;
 
     }
     .navbar {
-            background:floralwhite;
+            
     }
     .navel {
     position:fixed;
     text-align: center;
      z-index: 4; 
             bottom: 5px;
+            background:floralwhite;
     }
     .Netherlands {
 
