@@ -11,79 +11,63 @@ header {text-align: center;
         background-color: floralwhite;
         line-height: 60px;
     }
-.entry-date { text-align:center;
-font-style:italic;
-font-family: cursive;
+.entry-date { 
+        text-align:center;
+        font-style:italic;
+        font-family: cursive;
 }
-body { background-color: Tan;
+body {
+        background-color: Tan;
     }
 .entry-text{
-width: 78%;
+        width: 78%;
 }
 .intro {
 }
-.subtitle{position: relative;
-bottom: 63px;
-text-align: center;
-color: sienna;
-font-family: "Spectral SC", fantasy;
-font-style: italic;
+.subtitle{
+        position: relative;
+        bottom: 63px;
+        text-align: center;
+        color: sienna;
+        font-family: "Spectral SC", fantasy;
+        font-style: italic;
     }
-    .intro-quote{font-family: fantasy;
-    float:right;
-    width: 260px;
-    clear: right;
+.intro-quote{
+        font-family: fantasy;
+        float:right;
+        width: 260px;
+        clear: right;
         font-size: 15px;
-    left: 500px;
+        left: 500px;
         bottom: 1px;
-
     }
-    .navbar {
-            
+.navbar {       
     }
-    .navel {
-    position:fixed;
-    text-align: center;
-     z-index: 4; 
-            bottom: -20px;
-            background:floralwhite;
-            width: 105%;
-            height: 50px;
-            right:1px;
-            padding-top:20px;
+.navel {
+        position:fixed;
+        text-align: center;
+        z-index: 4; 
+        bottom: -20px;
+        background:floralwhite;
+        width: 105%;
+        height: 50px;
+        right:1px;
+        padding-top:20px;
     }
-    .Netherlands {
-
+  
+.navlink {
         margin-left:20px;
         color:saddlebrown;
-            
-            right: 10px;
-            
-        }
-.France { margin-left:20px;
-        color:saddlebrown;
-        right:10px;
+        right:10px:
 }
-        .England {
-        margin-left:20px;
-        color:saddlebrown;
-                right: 10px;
-        }
-        .Switzerland {
-        margin-left:20px;
-        color:saddlebrown;
-                right:10px;
-        }
-    .quote {
-
-
+.quote {
     }
 .entry {
-    margin-top: 20px;
-     position: relative;
+        margin-top: 20px;
+        position: relative;
 }
-.entry-pic {width: 300px;
-
-    border: 7px silver ridge;
-margin-top: 20px;
+.entry-pic {
+        width: 300px;
+        border: 7px silver ridge;
+        margin-top: 20px;
 }
