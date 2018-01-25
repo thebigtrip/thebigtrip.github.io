@@ -2,13 +2,13 @@ header {text-align: center;
         font-family: "Marck Script", cursive;
         font-style: oblique;
         font-size: 40px;
-        color: blue;
+        color: sienna;
         width: 103%;
         height: 90px;
         right: 7px;
         position: relative;
         bottom: 8px;
-        background-color: gold;
+        background-color: floralwhite;
         line-height: 60px;
     }
 .entry-date { 
@@ -17,7 +17,7 @@ header {text-align: center;
         font-family: cursive;
 }
 body {
-        background-color: cyan;
+        background-color: Tan;
     }
 .entry-text{
         width: 78%;
@@ -28,7 +28,7 @@ body {
         position: relative;
         bottom: 63px;
         text-align: center;
-        color: blue;
+        color: sienna;
         font-family: "Spectral SC", fantasy;
         font-style: italic;
     }
@@ -48,7 +48,7 @@ body {
         text-align: center;
         z-index: 4; 
         bottom: -20px;
-        background:gold;
+        background:floralwhite;
         width: 105%;
         height: 50px;
         right:1px;
@@ -57,7 +57,7 @@ body {
   
 .navlink {
         margin-left:20px;
-        color:magenta;
+        color:saddlebrown;
         right:10px:
 }
 .quote {
@@ -68,6 +68,6 @@ body {
 }
 .entry-pic {
         width: 300px;
-        border: 7px gold ridge;
+        border: 7px silver ridge;
         margin-top: 20px;
 }
