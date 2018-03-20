@@ -1,4 +1,6 @@
-header {text-align: center;
+
+#header {
+        text-align: center;
         font-family: "Marck Script", cursive;
         font-style: oblique;
         font-size: 40px;
@@ -10,7 +12,8 @@ header {text-align: center;
         bottom: 8px;
         background-color: floralwhite;
         line-height: 60px;
-    }
+        
+}
 .description {
         line-height: 5px;
         
