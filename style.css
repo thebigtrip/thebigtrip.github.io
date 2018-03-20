@@ -24,14 +24,14 @@ body {
         font-style: oblique;
         font-size: 40px;
         color: sienna;
-        width: 1200;
+        width: 103%;
         height: 90px;
         right: 7px;
         position: relative;
         bottom: 8px;
         background-color: floralwhite;
         line-height: 60px;
-        margin-left: -2
+        margin-left: -2;
         
         
 }
