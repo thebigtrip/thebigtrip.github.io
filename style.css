@@ -1,7 +1,7 @@
 
 
         
-}
+
 .description {
         line-height: 20px;
         
@@ -32,6 +32,7 @@ body {
         background-color: floralwhite;
         line-height: 60px;
         margin-left: 1px;
+}
 .entry-text{
         width: 78%;
         line-height: 20px;
