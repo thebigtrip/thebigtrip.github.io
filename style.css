@@ -11,6 +11,12 @@ header {text-align: center;
         background-color: floralwhite;
         line-height: 60px;
     }
+.description {
+        margin-left: 10px;
+        
+        
+        
+}
 .entry-date { 
         text-align:center;
         font-style:italic;
