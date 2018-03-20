@@ -1,18 +1,5 @@
 
-#header {
-        text-align: center;
-        font-family: "Marck Script", cursive;
-        font-style: oblique;
-        font-size: 40px;
-        color: sienna;
-        width: 103%;
-        height: 90px;
-        right: 7px;
-        position: relative;
-        bottom: 8px;
-        background-color: floralwhite;
-        line-height: 60px;
-        margin-left: 1px;
+
         
 }
 .description {
@@ -31,6 +18,20 @@ body {
         margin-left: 30px;
         
     }
+#header {
+        text-align: center;
+        font-family: "Marck Script", cursive;
+        font-style: oblique;
+        font-size: 40px;
+        color: sienna;
+        width: 103%;
+        height: 90px;
+        right: 7px;
+        position: relative;
+        bottom: 8px;
+        background-color: floralwhite;
+        line-height: 60px;
+        margin-left: 1px;
 .entry-text{
         width: 78%;
         line-height: 20px;
