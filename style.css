@@ -60,6 +60,7 @@ body {
         bottom: 1px;
         margin: 60px;
         left: 87%;
+        z-index: 4;
     }
 .navbar {       
     }
