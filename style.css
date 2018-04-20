@@ -79,7 +79,8 @@ body {
         color:saddlebrown;
         right:10px:
 }
-.quote {
+.quote {background-color: floralwhite;
+        position: fixed;
     }
 .entry {
         margin-top: 20px;
