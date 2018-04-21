@@ -21,7 +21,7 @@
 body {
         background-color: Tan;
         margin-left: 30px;
-        margin-right: 50%;
+        margin-right: 35%;
         
         
     }
@@ -51,7 +51,7 @@ body {
 }
 .subtitle{
         position: absolute;
-        left: 40%;
+        left: 35%;
         text-align: center;
         color: sienna;
         font-family: "Spectral SC", fantasy;
