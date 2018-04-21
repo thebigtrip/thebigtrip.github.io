@@ -6,6 +6,7 @@
 }
 
 
+
 .bumper {
         margin:140px;
         
@@ -39,7 +40,7 @@ body {
         font-style: oblique;
         font-size: 40px;
         color: sienna;
-        width: 50%;
+        width: 100%;
         height: 90px;
         
         position: absolute;
@@ -59,7 +60,7 @@ body {
 }
 .subtitle{
         position: absolute;
-        left: 12%;
+        left: 35%;
         text-align: center;
         color: sienna;
         font-family: "Spectral SC", fantasy;
@@ -104,7 +105,7 @@ body {
         position: fixed;
         z-index: 4;
         left: 67%;
-        top: 240px;
+        top: 100px;
     }
 .entry {
         margin-top: 20px;
