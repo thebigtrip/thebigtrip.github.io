@@ -1,5 +1,5 @@
 .bumper {
-        margin:60px;
+        margin:120px;
         
 }
 .description {
@@ -90,7 +90,7 @@ body {
         position: fixed;
         z-index: 4;
         left: 67%;
-        top: 50px;
+        top: 100px;
     }
 .entry {
         margin-top: 20px;
