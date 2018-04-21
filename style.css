@@ -51,7 +51,7 @@ body {
 }
 .subtitle{
         position: absolute;
-        
+        left: 50%;
         text-align: center;
         color: sienna;
         font-family: "Spectral SC", fantasy;
