@@ -84,6 +84,8 @@ body {
 .quote {
         background-color: floralwhite;
         position: fixed;
+        z-index: 4;
+        left: 87%
     }
 .entry {
         margin-top: 20px;
