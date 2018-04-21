@@ -89,7 +89,8 @@ body {
         background-color: floralwhite;
         position: fixed;
         z-index: 4;
-        left: 67%
+        left: 67%;
+        top: 50px;
     }
 .entry {
         margin-top: 20px;
