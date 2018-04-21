@@ -51,12 +51,13 @@ body {
 }
 .subtitle{
         position: absolute;
-        left: 35%;
+        
         text-align: center;
         color: sienna;
         font-family: "Spectral SC", fantasy;
         font-style: italic;
         top: 30px;
+        width: 100%;
     }
 
 .intro-quote {
