@@ -1,3 +1,13 @@
+#wordrobe-pic {
+        
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 70px;
+        
+}
+
+
 #wardrobe-pic {
         position: absolute;
         top: 10px;
