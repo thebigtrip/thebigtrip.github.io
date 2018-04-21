@@ -31,7 +31,7 @@ body {
         font-style: oblique;
         font-size: 40px;
         color: sienna;
-        width: 100%;
+        width: 50%;
         height: 90px;
         
         position: absolute;
@@ -51,7 +51,7 @@ body {
 }
 .subtitle{
         position: absolute;
-        left: 35%;
+        left: 18%;
         text-align: center;
         color: sienna;
         font-family: "Spectral SC", fantasy;
