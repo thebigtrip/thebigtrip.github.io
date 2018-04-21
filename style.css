@@ -27,7 +27,7 @@ body {
         height: 90px;
         
         position: absolute;
-        bottom: 8px;
+        top:10px;
         background-color: floralwhite;
         line-height: 60px;
         margin-right: -30px;
