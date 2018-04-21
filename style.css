@@ -27,7 +27,7 @@ body {
         height: 90px;
         
         position: absolute;
-        top:7px;
+        top:0px;
         background-color: floralwhite;
         line-height: 60px;
         margin-right: -30px;
@@ -42,12 +42,13 @@ body {
 .intro {
 }
 .subtitle{
-        position: relative;
-        bottom: 63px;
+        position: absolute;
+        
         text-align: center;
         color: sienna;
         font-family: "Spectral SC", fantasy;
         font-style: italic;
+        top: 30px;
     }
 
 .intro-quote {
